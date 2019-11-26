@@ -1,0 +1,4 @@
+﻿  wordList.c
+c:\users\tifye\source\repos\itp-slutprojekt\itp-slutprojekt\wordlist.c(131): warning C4090: 'initializing': different 'const' qualifiers
+c:\users\tifye\source\repos\itp-slutprojekt\itp-slutprojekt\wordlist.c(200): warning C4090: 'initializing': different 'const' qualifiers
+  ITP-SlutProjekt.vcxproj -> C:\Users\Tifye\source\repos\ITP-SlutProjekt\Debug\ITP-SlutProjekt.exe
